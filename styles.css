@@ -1,0 +1,12 @@
+.full {
+    font-family: monospace;
+    background-color: black;
+    color: whitesmoke;
+}
+h1, h2 {
+    font-family: 'Orbitron';
+}
+
+#strike {
+    text-decoration: line-through;
+}
